@@ -1,11 +1,11 @@
 # Computer_Vision
-**Object Counting using Ultralytics YOLOv8**
+**Object Counting using Ultralytics YOLOv8**  </br>
 **What is Object Counting?**
-Object counting with Ultralytics YOLOv8 involves accurate identification and counting of specific objects in videos and camera streams. YOLOv8 excels in real-time applications, providing efficient and precise object counting for various scenarios like crowd analysis and surveillance, thanks to its state-of-the-art algorithms and deep learning capabilities.
-**Advantages of Object Counting?**
-Resource Optimization: Object counting facilitates efficient resource management by providing accurate counts, and optimizing resource allocation in applications like inventory management.
-Enhanced Security: Object counting enhances security and surveillance by accurately tracking and counting entities, aiding in proactive threat detection.
-Informed Decision-Making: Object counting offers valuable insights for decision-making, optimizing processes in retail, traffic management, and various other domains.
+Object counting with Ultralytics YOLOv8 involves accurate identification and counting of specific objects in videos and camera streams. YOLOv8 excels in real-time applications, providing efficient and precise object counting for various scenarios like crowd analysis and surveillance, thanks to its state-of-the-art algorithms and deep learning capabilities.  </br>
+**Advantages of Object Counting?**  </br>
+Resource Optimization: Object counting facilitates efficient resource management by providing accurate counts, and optimizing resource allocation in applications like inventory management. </br>
+Enhanced Security: Object counting enhances security and surveillance by accurately tracking and counting entities, aiding in proactive threat detection. </br>
+Informed Decision-Making: Object counting offers valuable insights for decision-making, optimizing processes in retail, traffic management, and various other domains. </br>
 
 ## Object Counting using YOLOv8n and Ultralytics
 
