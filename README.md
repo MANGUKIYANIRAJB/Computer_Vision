@@ -47,11 +47,11 @@ Object counting is a crucial task in various applications such as traffic monito
 - The counted objects are annotated on the video frames, and the processed frames are written to an output video file.
 
 ### Code Explanation counting_rigion
-**How it Differs from Existing Implementations:**
-**Integration of YOLO:** </br>
+**How it Differs from Existing Implementations:**  </br>
+**Integration of YOLO:**  </br>
 This code leverages the YOLO object detection model, which offers high accuracy and real-time performance compared to traditional object detection methods.</br>
-**Object Counting with ROI:**</br>
+**Object Counting with ROI:** </br>
 The object_counter module allows for object counting within a defined region of interest, providing a more focused and accurate count of objects.</br>
-**Real-Time Processing:**</br>
+**Real-Time Processing:** </br>
 The code performs object counting in real-time, making it suitable for applications such as traffic monitoring or crowd management where timely insights are essential.</br>
 
