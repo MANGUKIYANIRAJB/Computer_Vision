@@ -39,7 +39,7 @@ Object counting is a crucial task in various applications such as traffic monito
 
 5. **Run the Code**: Execute the provided Python script. The script will read the input video, perform object detection using YOLOv8n, and count the specified object classes. The output will be a video with objects counted and annotated.
 
-### Code Explanation
+### Code Explanation counting_specific_class
 
 - The code initializes YOLOv8n model for object detection and sets up a video capture from the input video file.
 - It defines a line or region for counting objects and specifies the classes (e.g., persons, cars) to count.
