@@ -55,3 +55,5 @@ The object_counter module allows for object counting within a defined region of 
 **Real-Time Processing:** </br>
 The code performs object counting in real-time, making it suitable for applications such as traffic monitoring or crowd management where timely insights are essential.</br>
 
+### Code Explanation counting_polygon</br>
+</br>  Python code uses YOLOv8 and Ultralytics to count objects in real-time video within a specified region. It's different from existing implementations due to its integration of YOLOv8 for faster and more accurate detection, and Ultralytics for simplified model handling and customization. It offers a concise solution for real-time object counting with advanced detection capabilities.</br>
