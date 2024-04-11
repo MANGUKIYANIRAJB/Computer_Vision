@@ -1,1 +1,21 @@
+## Object_mapping_&_Distance_Calculation
 
+This Python script utilizes the YOLO (You Only Look Once) object detection model for tracking objects in a video. It calculates the distance of each detected object from a specified center point and annotates the video frames with bounding boxes, track IDs, and the calculated distances.
+
+Here's a breakdown of what the code does:
+
+- It imports necessary libraries including OpenCV (cv2) for video processing, math for mathematical calculations, and YOLO from the Ultralytics library for object detection.
+- It initializes the YOLO model with the specified weights file ("yolov8s.pt").
+- It opens a video file using OpenCV's VideoCapture function.
+- It retrieves the width, height, and frames per second (FPS) of the video.
+- It creates a VideoWriter object to write the annotated video frames to an output file.
+- It defines a center point and pixel per meter ratio for distance calculation.
+- It enters a loop to process each frame of the video.
+- It uses the YOLO model to detect and track objects in the current frame.
+- It iterates over the detected objects, calculates their distance from the center point, and annotates the frame with bounding boxes and distance information.
+- It writes the annotated frame to the output video file.
+- It displays the annotated frame in a window named "visioneye-distance-calculation".
+- It breaks out of the loop if the 'n' key is pressed.
+- Finally, it releases the VideoWriter and VideoCapture objects, and closes all OpenCV windows.
+
+This script can be useful for various applications such as surveillance, traffic monitoring, or object tracking systems where distance information is required for detected objects in a video.
