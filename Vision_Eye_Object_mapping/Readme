@@ -1,4 +1,4 @@
-## Object_mapping_&_Distance_Calculation
+1) Object_mapping_&_Distance_Calculation
 
 This Python script utilizes the YOLO (You Only Look Once) object detection model for tracking objects in a video. It calculates the distance of each detected object from a specified center point and annotates the video frames with bounding boxes, track IDs, and the calculated distances.
 
